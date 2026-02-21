@@ -22,7 +22,7 @@ selected_papers: false
 social: true
 ---
 
-Xin chào, tôi là Điệp Nguyễn. 
+Xin chào, tôi là Diệp Nguyễn. 
 
 Tôi là một nhà nghiên cứu kinh tế và phân tích dữ liệu. Chuyên môn của tôi tập trung vào kinh tế vĩ mô, kinh tế lượng, và áp dụng các công cụ lập trình để giải quyết các bài toán kinh tế phức tạp.
 
