@@ -10,7 +10,7 @@ profile:
   image_circular: true 
   address: >
     <div style="text-align: center; margin-top: 15px;">
-      <h3 style="margin-bottom: 5px;">iệp Nguyễn</h3>
+      <h3 style="margin-bottom: 5px;">Diệp Nguyễn</h3>
       <p style="font-size: 0.9rem;">
         <strong>Nhà nghiên cứu Kinh tế</strong><br>
         Chuyên viên Phân tích Dữ liệu
