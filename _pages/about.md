@@ -40,7 +40,7 @@ Tôi là một nhà nghiên cứu kinh tế và phân tích dữ liệu. Chuyên
   <div class="col-sm-6">
     <h4 style="margin-bottom: 15px;">Học vấn</h4>
     <ul style="list-style-type: none; padding-left: 0;">
-      <li>🎓 <strong>Cử nhân Kinh tế Quốc </strong><br> <span style="font-size: 0.9em; color: gray;">Đại học Ngoại </span></li>
+      <li>🎓 <strong>Cử nhân Kinh tế Quốc tế</strong><br> <span style="font-size: 0.9em; color: gray;">Đại học Ngoại </span></li>
       <li style="margin-top: 10px;">📖 <strong>Case kinh tế trong thực tế</strong><br> <span style="font-size: 0.9em; color: gray;">Nghiên cứu tự do</span></li>
     </ul>
   </div>
