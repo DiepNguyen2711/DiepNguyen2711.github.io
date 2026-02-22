@@ -26,19 +26,32 @@ toc:
 ---
 
 <style>
-  /* Ẩn chữ tiêu đề to đùng bị lệch ở trên cùng */
+  /* 1. Ẩn các thành phần thừa trên đầu */
   h1.post-title { display: none !important; }
-  /* Ẩn hoàn toàn thanh menu ngang */
   header.fixed-top { display: none !important; }
+
+  /* 2. Căn giữa các logo mạng xã hội (Email, Github) ở cột bên trái */
+  .profile .social {
+      text-align: center !important;
+      margin-top: 20px !important;
+  }
+
+  /* 3. Kéo đoạn văn sang trái để giảm khoảng trống (Chỉ áp dụng trên máy tính) */
+  @media (min-width: 992px) {
+    .post.description {
+        margin-left: -30px !important; /* Kéo giật lùi sang trái 30px */
+        padding-left: 0 !important;
+    }
+  }
 </style>
 
 Xin chào, tôi là Diệp Nguyễn. 
 
-Tôi là một nhà nghiên cứu kinh tế và phân tích dữ liệu. Chuyên môn của tôi tập trung vào kinh tế vĩ mô, kinh tế lượng, và áp dụng các công cụ lập trình để giải quyết các bài toán kinh tế phức tạp.
+Tôi là một nhà nghiên cứu kinh tế và phân tích dữ liệu. Chuyên môn của tôi tập trung vào kinh tế vĩ mô, kinh tế lượng, và áp dụng các công cụ lập trình để giải quyết các bài toán kinh tế.
 
 <br>
 
-## 🔍 Lĩnh vực quan tâm
+<h2 style="margin-top: 50px;">🔍 Lĩnh vực quan tâm</h2>
 * **Kinh tế vĩ mô (Macroeconomics)**
 * **Kinh tế lượng (Econometrics)**
 * **Phân tích dữ liệu:** Ứng dụng mô hình thống kê bằng Stata & Python.
@@ -48,7 +61,7 @@ Tôi là một nhà nghiên cứu kinh tế và phân tích dữ liệu. Chuyên
 * **Case kinh tế** - Nghiên cứu tự do
 
 ## 🚀 Dự án & Nghiên cứu
-* **Dự án nền tảng Hourskill:** [Leader của dự án].
+* **Dự án nền tảng Hourskill:** Leader dự án
 
 ## 💻 Kỹ năng & Công cụ
 * **Phân tích dữ liệu:** Stata
